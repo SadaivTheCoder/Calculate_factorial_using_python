@@ -4,6 +4,6 @@ def facto(n):
         return 1
     else:
         return n*facto(n-1)
-n = int(input("Enter a number:-> ")
+n = int(input("Enter a number:-> "))
 print(facto(n))
 
