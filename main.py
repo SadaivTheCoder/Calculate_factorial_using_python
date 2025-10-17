@@ -6,3 +6,4 @@ def facto(n):
         return n*facto(n-1)
 n = int(input("Enter a number:-> "))
 print(facto(n))
+print("Done by Sadaiv")
