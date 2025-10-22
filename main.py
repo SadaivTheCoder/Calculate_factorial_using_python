@@ -7,3 +7,4 @@ def facto(n):
 n = int(input("Enter a number:-> "))
 print(facto(n))
 print("Done by Sadaiv")
+print("Thank you")
